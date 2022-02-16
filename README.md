@@ -53,3 +53,5 @@ At the end of the project we can say that these two algorithms can predict quite
 Work done by:
   - Matteo Raffo (https://github.com/Buffless24)
   - Paolo Patrone (https://github.com/Patpa99)
+
+All work was done by both of us, every piece of code and every output was written, edited and supervised by both. This report was also drawnup together.
